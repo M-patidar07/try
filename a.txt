@@ -1,0 +1,10 @@
+Step 1: Set up the project
+
+Open Android Studio and create a new project.
+Choose an application name and domain, and select the desired project location.
+Select "Empty Activity" as the template and click "Finish" to create the project.
+
+Step 2: Design the layout
+
+Open the activity_main.xml file located in the res/layout folder.
+Replace the existing code with the following XML code:
